@@ -1,2 +1,2 @@
 # RSEND
-Robotics Software Engineer Nanodegree - Udacity
+Robotics Software Engineer Nanodegree
